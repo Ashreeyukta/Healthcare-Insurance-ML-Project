@@ -119,7 +119,7 @@ jupyter notebook
 Open:
 
 ```
-ealth_insurance_cost_Shreeyukta_Aryal.ipynb
+health_insurance_cost_Shreeyukta_Aryal.ipynb
 ```
 
 and run all cells from top to bottom.
